@@ -1,0 +1,1 @@
+[![Daily Commit Action](https://github.com/theMessiMagic/daily-commit-bot/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/theMessiMagic/daily-commit-bot/actions/workflows/daily-commit.yml)
